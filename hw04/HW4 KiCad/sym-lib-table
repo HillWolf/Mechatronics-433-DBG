@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hw4piclibrary")(type "KiCad")(uri "${KIPRJMOD}/hw4piclibrary.kicad_sym")(options "")(descr ""))
+)
